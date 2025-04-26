@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { Badge } from '@/components/ui/badge';
-import { ShoppingBag } from 'lucide-react';
+import { ShoppingBag, ArrowRight } from 'lucide-react';
 
 interface Product {
   id: number;
