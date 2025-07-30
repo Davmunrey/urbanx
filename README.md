@@ -1,73 +1,67 @@
-# Welcome to your Lovable project
+🛍️ Tienda Online – E-commerce de Ropa
+Bienvenido al repositorio de mi tienda online desarrollada con Lovable, una plataforma visual para la creación rápida de sitios web. Este proyecto fue generado con Lovable y posteriormente editado, adaptado y mantenido por mí como desarrollador técnico-comercial para mostrar mis capacidades tanto en frontend moderno como en integración de experiencias de compra.
 
-## Project info
+🌍 Proyecto en producción
+Accede a la tienda publicada:
+🔗 https://lovable.dev/projects/bbbdd1e3-7fd3-4779-9c6b-6375a31177b4
 
-**URL**: https://lovable.dev/projects/bbbdd1e3-7fd3-4779-9c6b-6375a31177b4
+✏️ ¿Cómo editar este proyecto?
+Puedes trabajar sobre este proyecto de varias formas:
 
-## How can I edit this code?
+1. Edición desde Lovable
+Accede al proyecto en Lovable.
 
-There are several ways of editing your application.
+Utiliza prompts o el editor visual para modificar diseño, estructura y contenido.
 
-**Use Lovable**
+Todos los cambios se sincronizan automáticamente con este repositorio.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bbbdd1e3-7fd3-4779-9c6b-6375a31177b4) and start prompting.
+2. Edición local (modo desarrollador)
+Requisitos:
 
-Changes made via Lovable will be committed automatically to this repo.
+Node.js y npm instalados (recomendado usar nvm).
 
-**Use your preferred IDE**
+Pasos:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+bash
+Copy
+Edit
+# 1. Clona el repositorio:
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# 2. Entra en el directorio:
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3. Instala las dependencias:
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Inicia el servidor de desarrollo:
 npm run dev
-```
+3. Edición desde GitHub
+Puedes editar archivos directamente desde GitHub usando el icono de lápiz.
 
-**Edit a file directly in GitHub**
+Realiza un commit para guardar los cambios.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+4. GitHub Codespaces (opcional)
+Desde la pestaña "Codespaces", lanza un entorno cloud para trabajar directamente en el navegador.
 
-**Use GitHub Codespaces**
+🧰 Tecnologías utilizadas
+⚡ Vite (entorno de desarrollo)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+⚛️ React + TypeScript
 
-## What technologies are used for this project?
+🎨 Tailwind CSS
 
-This project is built with:
+🧩 shadcn/ui
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+👕 Sobre esta tienda
+Este proyecto muestra una tienda online de ropa moderna, rápida y responsive. Está diseñada para ofrecer una experiencia de compra sencilla y profesional, y estructurada para ser escalable con:
 
-## How can I deploy this project?
+Secciones visuales de producto.
 
-Simply open [Lovable](https://lovable.dev/projects/bbbdd1e3-7fd3-4779-9c6b-6375a31177b4) and click on Share -> Publish.
+CTA claros para añadir al carrito o contactar.
 
-## Can I connect a custom domain to my Lovable project?
+Sistema de navegación intuitivo.
 
-Yes, you can!
+Diseño responsive adaptable a móvil y escritorio.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+✨ La web fue generada con Lovable, pero todos los ajustes, estructura, copywriting y enfoque UX han sido personalizados por mí para posicionarla como un ejemplo realista de e-commerce optimizado para conversión.
